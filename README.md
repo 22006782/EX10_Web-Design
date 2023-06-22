@@ -19,6 +19,8 @@
 
 
 ## OUTPUT
+![exercise 10](https://github.com/22006782/EX10_Web-Design/assets/128878369/e5842ea2-c814-4165-bc9e-13767d418e71)
+
 
 
 ## RESULT
